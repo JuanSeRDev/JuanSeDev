@@ -1,5 +1,5 @@
-# Nombre: Sebastián Rodríguez
-## Apodo: JuanSeRDev
+# Sebastián Rodríguez
+## JuanSeRDev
 
 ## Sobre mí
 Soy estudiante de HTML, CSS y JavaScript, con experiencia en algunos retos resueltos de [FrontendMentor.io](https://www.frontendmentor.io). Me apasiona el desarrollo web y me gustaría llegar a desarrollar aplicaciones.
