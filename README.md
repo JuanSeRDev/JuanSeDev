@@ -1,11 +1,5 @@
 # 👋 Hola, soy Sebastián Rodríguez
-![Tu imagen aquí](URL_de_tu_imagen) 
-
-## 🎓 Estudiante de Desarrollo Web
-<div style="display: flex; align-items: center;">
-  <img src="[URL_de_tu_image](https://scontent.fbaq2-2.fna.fbcdn.net/v/t39.30808-6/278499879_10224011521308216_6050386019923994248_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DbUlixpZFK8Q7kNvgGZOcTe&_nc_ht=scontent.fbaq2-2.fna&oh=00_AYDBbgdfH1L08AyMALgwdksQEk2uLBxAAJW3B8fCj5VNxQ&oe=66FB40F4)n" alt="Tu imagen" width="150" style="margin-right: 20px;"/>
-  <p>Soy estudiante de <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>. Me apasiona el desarrollo web y estoy en el camino de aprender y dominar las herramientas y tecnologías que me permitirán crear aplicaciones funcionales y atractivas. Cada día, me enfrento a nuevos desafíos que me ayudan a fortalecer mis habilidades y a entender mejor el proceso de desarrollo. Mi objetivo es convertirme en un desarrollador versátil, capaz de abordar diferentes tipos de proyectos y contribuir con soluciones innovadoras en el mundo digital.</p>
-</div> <!-- Reemplaza URL_de_tu_imagen con el enlace a tu imagen -->
+![Tu imagen aquí]([URL_de_tu_imagen](https://scontent.fbaq2-2.fna.fbcdn.net/v/t39.30808-6/278499879_10224011521308216_6050386019923994248_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=DbUlixpZFK8Q7kNvgGZOcTe&_nc_ht=scontent.fbaq2-2.fna&oh=00_AYDBbgdfH1L08AyMALgwdksQEk2uLBxAAJW3B8fCj5VNxQ&oe=66FB40F4)) 
 
 ## 🎓 Estudiante de Desarrollo Web
 Soy estudiante de **HTML**, **CSS**, y **JavaScript**. Me apasiona el desarrollo web y estoy en el camino de aprender y dominar las herramientas y tecnologías que me permitirán crear aplicaciones funcionales y atractivas. Cada día, me enfrento a nuevos desafíos que me ayudan a fortalecer mis habilidades y a entender mejor el proceso de desarrollo. Mi objetivo es convertirme en un desarrollador versátil, capaz de abordar diferentes tipos de proyectos y contribuir con soluciones innovadoras en el mundo digital.
